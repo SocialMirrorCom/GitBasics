@@ -1,0 +1,11 @@
+blockquote, body, dd, dl, dt, fieldset, figcaption, figure, form, h1, h2, h3, h4, h5, h6, hr, html, legend, li, ol, p, pre, table, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	color: #000000;
+}
